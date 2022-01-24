@@ -15,7 +15,7 @@ bl_info = {
 
 import bpy
 
-
+#This is the start of the code
 
 class NewPanel(bpy.types.Panel):
     """Creates a Panel in the Object properties window"""
